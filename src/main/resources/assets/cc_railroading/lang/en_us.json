@@ -1,0 +1,13 @@
+{
+  "itemGroup.cc_railroading": "Example Mod Tab",
+  "block.cc_railroading.example_block": "Example Block",
+  "item.cc_railroading.example_item": "Example Item",
+
+  "cc_railroading.configuration.title": "CC: Railroading Configs",
+  "cc_railroading.configuration.section.cc_railroading.common.toml": "CC: Railroading Configs",
+  "cc_railroading.configuration.section.cc_railroading.common.toml.title": "CC: Railroading Configs",
+  "cc_railroading.configuration.items": "Item List",
+  "cc_railroading.configuration.logDirtBlock": "Log Dirt Block",
+  "cc_railroading.configuration.magicNumberIntroduction": "Magic Number Text",
+  "cc_railroading.configuration.magicNumber": "Magic Number"
+}
